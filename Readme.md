@@ -1,1 +1,3 @@
-Hello World! This is the exmapleRepository's Readme file.
+Hello World! Welcome to exampleRepository for AIBAS course.
+
+This will be the git repo used for further tasks.
